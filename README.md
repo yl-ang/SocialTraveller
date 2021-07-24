@@ -62,7 +62,7 @@ Remove command allows user to remove interest he/she may no longer have.
 
 ### guess
 
-![Guess](guess_command.jpg)
+![Guess](guess.jpg)
 
 Guess command: Take a guess as to what is the common interest within the group.
 
