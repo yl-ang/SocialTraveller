@@ -1,4 +1,4 @@
-# SocialTravellers
+# SocialTravellers - Created by HackersUnited(014)
 
 ## Contents
 1. [Problem statement](#problem-statement)
@@ -7,7 +7,7 @@
 1. [Built with](#built-with)
 
 ## problem-statement
-Our team UnitedHackers have chosen the following probelm statement:
+Our team HackersUnited(014) have chosen the following probelm statement:
 
 Social
 In a post-COVID-19 world where face-to-face interaction is no longer the main mode of
@@ -29,7 +29,6 @@ SocialTravellers is a python telegram bot which aims to encourage communication 
 ![Start](start_command.jpg)
 
 Starts the bot and add the user chat id and the valid interest tags into the individual database sqlite.
-
 
 ### help
 
@@ -57,14 +56,15 @@ Add command allows user to add additional interest he/she may has. This allows u
 
 ### remove
 
-![Remove]rm_command.jpg)
+![Remove](rm_command.jpg)
 
 Remove command allows user to remove interest he/she may no longer have.
 
 ### guess
 
+![Guess](guess_command.jpg)
+
 Guess command: Take a guess as to what is the common interest within the group.
 
 ## Built with
-Python Telegram Library
-Visual Studio Code
+Python Telegram Library & Visual Studio Code
