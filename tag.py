@@ -1,0 +1,1 @@
+tags = ['student', 'anime', 'gamer', 'sports', 'art', 'memes', 'kpop', 'neet', 'study', 'programmer']
